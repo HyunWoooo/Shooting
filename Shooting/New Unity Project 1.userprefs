@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Network\TestClient.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Network\TestClient.cs" Line="138" Column="25" />
+      <File FileName="Assets\Scripts\Network\EnemyPlayerInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Hyun Woo\Documents\Unity\New Unity Project 1\Assets\Scripts\Network\TestClient.cs" line="139" column="1" />
+      <Breakpoint file="C:\Users\Hyun Woo\Documents\Unity\New Unity Project 1\Assets\Scripts\Network\TestClient.cs" line="129" column="1" />
+      <Breakpoint file="C:\Users\Hyun Woo\Documents\Unity\New Unity Project 1\Assets\Scripts\Network\TestClient.cs" line="134" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
